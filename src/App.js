@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -19,6 +20,17 @@ function App() {
         </a>
       </header>
     </div>
+  );
+}
+*/
+
+
+import './App.css'
+import  User from  './user'
+
+function App() {
+  return (
+    <User />
   );
 }
 
